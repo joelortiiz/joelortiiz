@@ -1,24 +1,20 @@
+
+
 - 👋 Hello, I’m Joel Ortiz García
-# Project Name
 
-![GitHub](https://img.shields.io/github/license/joelortiiz/App-Funcional_Hoteles-?style=for-the-badge)
-[![Build Status](https://img.shields.io/github/workflow/status/username/projectname/Main%20Workflow?style=for-the-badge)](https://github.com/username/projectname/actions)
+## About Me 🧑‍💻
+- 🎓 Web Application Developer graduated from IES Ribera del Tajo
 
-## Environment
-...
+## My Profesional Profile  📚
+<a href = 'https://www.linkedin.com/in/joelortiiz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-## Frontend
-...
+## Skills and Tools 💻<img src = "https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47uw2ctr7ulwogh57jz240ixzdad7hyfpybbpen5nn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px>
+| ENVIRONMENT | TECHNOLOGIES |
+| :---: | :---: |
+| FRONTEND | [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) &nbsp; [![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) &nbsp; [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/) |
+| BACKEND | [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/) &nbsp; [![SYMFONY](https://skillicons.dev/icons?i=symfony)](https://symfony.com/) &nbsp; [![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) &nbsp; [![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) &nbsp; [![JAVA](https://skillicons.dev/icons?i=java)](https://www.java.com/) |
+| TOOLS | [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://www.vscode.com/) &nbsp; [![GITHUB](https://skillicons.dev/icons?i=github)](https://www.github.com/) &nbsp; [![POSTMAN](https://skillicons.dev/icons?i=postman)](https://postman.com/) &nbsp;|
 
-## Backend
-...
-
-## Tools
-...
-
-## Technologies
-...
-
-### 53 B
-- PHP: [(f)](http://example.com/framework)
-- JavaScript: ✔
+## My stats 📈
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=joelortiiz&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelortiiz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"  alt="0xabdulkhalid"/>
