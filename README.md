@@ -8,7 +8,12 @@
 ## My Profesional Profile  📚
 <a href = 'https://www.linkedin.com/in/joelortiiz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-## Skills and Tools 💻<img src = "https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47uw2ctr7ulwogh57jz240ixzdad7hyfpybbpen5nn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px>
+## Skills and Tools <img src = "![Uploading image.png…]()
+" width = 32px>
+
+
+
+
 | ENVIRONMENT | TECHNOLOGIES |
 | :---: | :---: |
 | FRONTEND | [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) &nbsp; [![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) &nbsp; [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/) |
