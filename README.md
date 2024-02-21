@@ -12,7 +12,8 @@
 
 
 
-| TECHNOLOGIES |
+## Skills and Tools 💻<img src = "https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47uw2ctr7ulwogh57jz240ixzdad7hyfpybbpen5nn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 32px>
+| ENVIRONMENT | TECHNOLOGIES |
 | :---: | :---: |
 | FRONTEND | [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) &nbsp; [![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) &nbsp; [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/) |
 | BACKEND | [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/) &nbsp; [![SYMFONY](https://skillicons.dev/icons?i=symfony)](https://symfony.com/) &nbsp; [![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) &nbsp; [![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) &nbsp; [![JAVA](https://skillicons.dev/icons?i=java)](https://www.java.com/) |
