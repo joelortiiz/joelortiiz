@@ -2,7 +2,7 @@
 ## About Me 
 - 👋 Welcome, I’m Joel Ortiz García
 - 🎓 Web Application Developer graduated from IES Ribera del Tajo
-![nuevo]()
+
 
 
 
