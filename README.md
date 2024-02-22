@@ -16,7 +16,7 @@
 ## My stats 📈
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelortiiz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="250"  alt="0xabdulkhalid"/>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=marcoossmb&show_icons=true&theme=tokyonight)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=joelortiiz&show_icons=true&theme=tokyonight)
 
 ## More about me & Contact me  📚
 <a href = 'https://www.linkedin.com/in/joelortiiz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
